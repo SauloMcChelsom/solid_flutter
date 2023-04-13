@@ -1,0 +1,1 @@
+Dependa de uma abstração e não de uma implementação
