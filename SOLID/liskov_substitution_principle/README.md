@@ -1,0 +1,1 @@
+Classes derivadas devem poder ser subtituidas por suas classes bases
