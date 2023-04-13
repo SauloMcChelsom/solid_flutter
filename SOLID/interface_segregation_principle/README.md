@@ -1,0 +1,1 @@
+Clientes não devem ser forçados a depender de metodos que não usam
