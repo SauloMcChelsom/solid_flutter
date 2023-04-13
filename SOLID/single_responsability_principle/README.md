@@ -1,0 +1,1 @@
+uma classe deve ter um, e apenas um motivo para ser alterada
