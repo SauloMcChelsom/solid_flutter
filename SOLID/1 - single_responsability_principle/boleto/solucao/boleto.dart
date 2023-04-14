@@ -7,6 +7,10 @@ class Boleto {
 
   gerar() {
     //implementação
+
+    /**
+     * Agora estamo ultilizando uma dependencia externa
+     */
     _email.enviar("remet@outlook.com", "dest@outlook.com");
   }
 }
